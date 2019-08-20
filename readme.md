@@ -2,7 +2,7 @@
 
 <h2 align="center">PROJET PGM</h2>
 
-<h4>Step 1 :</h4><p>Clone the project :<p>
+####Step 1
     
 ```
 $ git clone URL
